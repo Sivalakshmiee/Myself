@@ -3,11 +3,14 @@ public class Conditional {
 
         int x = 10;
         int y = 13;
+        int z = 17;
 
-        if (x > y && x <= y) {
-            System.out.println("x is greater than 5");
+        if (x > y && x <= z) {
+            System.out.println(x);
+        } else if (y > x && y > z) {
+            System.out.println(y);
         } else {
-            System.out.println("x is not greater than 5");
+            System.out.println(z);
         }
 
     }
