@@ -1,6 +1,6 @@
 public class Literal {
 
-    public static void main(String[] args) {
+    public static void main(Str[] args) {
         int num1 = 100_00_000;
         System.out.println(num1);
 

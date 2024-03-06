@@ -12,7 +12,7 @@ class Calc {
 }
 
 public class Calculator {
-    public static void main(String[] args) {
+    public static void main(Str[] args) {
         Calc obj = new Calc();
 
         int r1 = obj.add(8, 5);

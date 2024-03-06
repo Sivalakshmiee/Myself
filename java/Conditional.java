@@ -1,5 +1,5 @@
 public class Conditional {
-    public static void main(String[] args) {
+    public static void main(Str[] args) {
 
         int x = 10;
         int y = 13;

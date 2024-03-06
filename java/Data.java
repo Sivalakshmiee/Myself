@@ -1,7 +1,7 @@
 class Data {
     // primitive - int, float, characters, boolean
 
-    public static void main(String[] args) {
+    public static void main(Str[] args) {
         int n = 8;
         byte by = 127;
         short sh = 455;

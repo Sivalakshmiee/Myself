@@ -1,5 +1,5 @@
 public class Ternery {
-    public static void main(String[] args) {
+    public static void main(Str[] args) {
         int res = 0;
         int n = 11;
 

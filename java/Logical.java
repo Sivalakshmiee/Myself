@@ -1,5 +1,5 @@
 public class Logical {
-    public static void main(String[] args) {
+    public static void main(Str[] args) {
         int x = 7;
         int y = 5;
         int a = 5;
