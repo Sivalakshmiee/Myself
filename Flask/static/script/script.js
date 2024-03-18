@@ -1,0 +1,1 @@
+alert("Page reload: You may loss your data")

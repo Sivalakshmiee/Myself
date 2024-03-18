@@ -1,0 +1,7 @@
+WSGI - Web Server Gateway Interface (std/protocol)
+
+jinja 2 template engine
+
+web template system along with certain data sources - to render dynamic pages
+
+building url dynamically
